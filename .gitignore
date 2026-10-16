@@ -8,4 +8,4 @@ node_modules/
 logs/*.log
 
 # Vercel
-.vercel
+.vercel!logs/sample-app.log

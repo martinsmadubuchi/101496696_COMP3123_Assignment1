@@ -2,7 +2,7 @@
 
 **Student:** 101496696
 **GitHub:** https://github.com/martinsmadubuchi/101496696_COMP3123_Assignment1
-**Deployed API:** _(added after Vercel deployment)_
+**Deployed API:** https://101496696-comp-3123-assignment1.vercel.app
 
 ## 1. Project Overview
 

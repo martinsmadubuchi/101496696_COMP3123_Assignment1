@@ -2,6 +2,8 @@
 const express = require('express');
 const requestLogger = require('./middleware/requestLogger');
 const healthRoutes = require('./routes/healthRoutes');
+const userRoutes = require('./routes/userRoutes');
+const employeeRoutes = require('./routes/employeeRoutes');
 const notFound = require('./middleware/notFound');
 const errorHandler = require('./middleware/errorHandler');
 
@@ -20,6 +22,10 @@ app.get('/', (req, res) => {
 
 // Health check
 app.use('/health', healthRoutes);
+
+// API routes
+app.use('/api/v1/user', userRoutes);
+app.use('/api/v1/emp', employeeRoutes);
 
 // Unknown routes -> 404 (must come AFTER all real routes)
 app.use(notFound);

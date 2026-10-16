@@ -1,0 +1,238 @@
+2026-10-16 02:05:33 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:05:33 [INFO] Server started on port 3000
+2026-10-16 02:42:23 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:42:23 [INFO] Server started on port 3000
+2026-10-16 02:42:37 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:42:37 [INFO] Server started on port 3000
+2026-10-16 02:43:30 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:43:30 [INFO] Server started on port 3000
+2026-10-16 02:43:46 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:43:46 [INFO] Server started on port 3000
+2026-10-16 02:46:01 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:46:01 [INFO] Server started on port 3000
+2026-10-16 02:46:23 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:46:23 [INFO] Server started on port 3000
+2026-10-16 02:47:25 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:47:25 [INFO] Server started on port 3000
+2026-10-16 02:49:45 [INFO] GET /health 200 - 6.759 ms - ip=::1
+2026-10-16 02:49:45 [INFO] GET /favicon.ico 404 - 1.643 ms - ip=::1
+2026-10-16 02:54:34 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:54:34 [INFO] Server started on port 3000
+2026-10-16 02:55:18 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:55:18 [INFO] Server started on port 3000
+2026-10-16 02:55:57 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:55:57 [INFO] Server started on port 3000
+2026-10-16 02:56:10 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:56:10 [INFO] Server started on port 3000
+2026-10-16 02:56:57 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:56:57 [INFO] Server started on port 3000
+2026-10-16 02:57:22 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:57:22 [INFO] Server started on port 3000
+2026-10-16 02:58:12 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:58:12 [INFO] Server started on port 3000
+2026-10-16 02:58:23 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:58:23 [INFO] Server started on port 3000
+2026-10-16 02:59:37 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 02:59:37 [INFO] Server started on port 3000
+2026-10-16 03:00:01 [WARN] GET /hello - 404 - Route not found: GET /hello
+2026-10-16 03:00:01 [INFO] GET /hello 404 - 6.906 ms - ip=::1
+2026-10-16 03:16:07 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:16:07 [INFO] Server started on port 3000
+2026-10-16 03:16:32 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:16:32 [INFO] Server started on port 3000
+2026-10-16 03:17:39 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:17:39 [INFO] Server started on port 3000
+2026-10-16 03:17:53 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:17:53 [INFO] Server started on port 3000
+2026-10-16 03:19:50 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:19:50 [INFO] Server started on port 3000
+2026-10-16 03:20:06 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:20:06 [INFO] Server started on port 3000
+2026-10-16 03:21:14 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:21:14 [INFO] Server started on port 3000
+2026-10-16 03:21:24 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:21:24 [INFO] Server started on port 3000
+2026-10-16 03:22:19 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:22:19 [INFO] Server started on port 3000
+2026-10-16 03:22:30 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:22:30 [INFO] Server started on port 3000
+2026-10-16 03:23:40 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 03:23:40 [INFO] Server started on port 3000
+2026-10-16 03:51:12 [INFO] AUTH signup success: user=userA id=6ad1d76feec445e2c806c695
+2026-10-16 03:51:12 [INFO] POST /api/v1/user/signup 201 - 691.909 ms - ip=::1
+2026-10-16 04:01:23 [INFO] AUTH login success: user=userA id=6ad1d76feec445e2c806c695
+2026-10-16 04:01:23 [INFO] POST /api/v1/user/login 200 - 860.857 ms - ip=::1
+2026-10-16 04:08:27 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:08:27 [INFO] Server started on port 3000
+2026-10-16 04:08:52 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:08:52 [INFO] Server started on port 3000
+2026-10-16 04:09:30 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:09:30 [INFO] Server started on port 3000
+2026-10-16 04:09:41 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:09:41 [INFO] Server started on port 3000
+2026-10-16 04:10:45 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:10:45 [INFO] Server started on port 3000
+2026-10-16 04:11:09 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:11:09 [INFO] Server started on port 3000
+2026-10-16 04:11:57 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:11:57 [INFO] Server started on port 3000
+2026-10-16 04:12:13 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:12:13 [INFO] Server started on port 3000
+2026-10-16 04:12:50 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:12:50 [INFO] Server started on port 3000
+2026-10-16 04:13:10 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:13:10 [INFO] Server started on port 3000
+2026-10-16 04:34:22 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 04:34:22 [INFO] Server started on port 3000
+2026-10-16 04:34:45 [WARN] AUTHZ missing token: POST /api/v1/emp/employees
+2026-10-16 04:34:45 [WARN] POST /api/v1/emp/employees - 401 - Authentication required: missing Bearer token
+2026-10-16 04:34:45 [INFO] POST /api/v1/emp/employees 401 - 10.002 ms - ip=::1
+2026-10-16 04:40:34 [INFO] AUTH login success: user=userA id=6ad1d76feec445e2c806c695
+2026-10-16 04:40:34 [INFO] POST /api/v1/user/login 200 - 829.381 ms - ip=::1
+2026-10-16 04:49:35 [INFO] EMP created: id=6ad1e51f4ce182a955de4780 owner=6ad1d76feec445e2c806c695
+2026-10-16 04:49:35 [INFO] POST /api/v1/emp/employees 201 - 292.453 ms - ip=::1
+2026-10-16 04:55:38 [INFO] EMP created: id=6ad1e68a4ce182a955de4781 owner=6ad1d76feec445e2c806c695
+2026-10-16 04:55:38 [INFO] POST /api/v1/emp/employees 201 - 64.835 ms - ip=::1
+2026-10-16 05:01:33 [INFO] GET /api/v1/emp/employees 200 - 129.261 ms - ip=::1
+2026-10-16 05:05:03 [INFO] GET /api/v1/emp/employees/6ad1e68a4ce182a955de4781 200 - 56.874 ms - ip=::1
+2026-10-16 05:07:56 [INFO] GET /api/v1/emp/employees/6ad1e68a4ce182a955de4781 200 - 53.486 ms - ip=::1
+2026-10-16 05:09:23 [INFO] EMP updated: id=6ad1e68a4ce182a955de4781 owner=6ad1d76feec445e2c806c695
+2026-10-16 05:09:23 [INFO] PUT /api/v1/emp/employees/6ad1e68a4ce182a955de4781 200 - 73.365 ms - ip=::1
+2026-10-16 05:13:46 [INFO] EMP deleted: id=6ad1e51f4ce182a955de4780 owner=6ad1d76feec445e2c806c695
+2026-10-16 05:13:46 [INFO] DELETE /api/v1/emp/employees?eid=6ad1e51f4ce182a955de4780 204 - 64.767 ms - ip=::1
+2026-10-16 05:14:38 [INFO] GET /api/v1/emp/employees/6ad1e68a4ce182a955de4781 200 - 47.285 ms - ip=::1
+2026-10-16 05:19:22 [INFO] AUTH signup success: user=userB id=6ad1ec194ce182a955de4782
+2026-10-16 05:19:22 [INFO] POST /api/v1/user/signup 201 - 643.739 ms - ip=::1
+2026-10-16 05:22:09 [INFO] AUTH login success: user=userB id=6ad1ec194ce182a955de4782
+2026-10-16 05:22:09 [INFO] POST /api/v1/user/login 200 - 577.766 ms - ip=::1
+2026-10-16 05:24:24 [INFO] EMP created: id=6ad1ed474ce182a955de4783 owner=6ad1ec194ce182a955de4782
+2026-10-16 05:24:24 [INFO] POST /api/v1/emp/employees 201 - 60.846 ms - ip=::1
+2026-10-16 05:37:11 [INFO] AUTH login success: user=userA id=6ad1d76feec445e2c806c695
+2026-10-16 05:37:11 [INFO] POST /api/v1/user/login 200 - 581.322 ms - ip=::1
+2026-10-16 05:37:27 [INFO] AUTH login success: user=userB id=6ad1ec194ce182a955de4782
+2026-10-16 05:37:27 [INFO] POST /api/v1/user/login 200 - 651.503 ms - ip=::1
+2026-10-16 05:42:14 [INFO] GET /api/v1/emp/employees 200 - 56.580 ms - ip=::1
+2026-10-16 05:44:34 [WARN] AUTHZ forbidden: user=6ad1d76feec445e2c806c695 tried to view employee=6ad1ed474ce182a955de4783 owned by another user
+2026-10-16 05:44:34 [WARN] GET /api/v1/emp/employees/6ad1ed474ce182a955de4783 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 05:44:34 [INFO] GET /api/v1/emp/employees/6ad1ed474ce182a955de4783 403 - 75.197 ms - ip=::1
+2026-10-16 05:46:13 [WARN] AUTHZ forbidden: user=6ad1d76feec445e2c806c695 tried to update employee=6ad1ed474ce182a955de4783 owned by another user
+2026-10-16 05:46:13 [WARN] PUT /api/v1/emp/employees/6ad1ed474ce182a955de4783 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 05:46:13 [INFO] PUT /api/v1/emp/employees/6ad1ed474ce182a955de4783 403 - 88.404 ms - ip=::1
+2026-10-16 05:47:58 [WARN] AUTHZ forbidden: user=6ad1d76feec445e2c806c695 tried to delete employee=6ad1ed474ce182a955de4783 owned by another user
+2026-10-16 05:47:58 [WARN] DELETE /api/v1/emp/employees?eid=6ad1ed474ce182a955de4783 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 05:47:58 [INFO] DELETE /api/v1/emp/employees?eid=6ad1ed474ce182a955de4783 403 - 75.440 ms - ip=::1
+2026-10-16 05:51:36 [WARN] AUTHZ forbidden: user=6ad1d76feec445e2c806c695 tried to view employee=6ad1ed474ce182a955de4783 owned by another user
+2026-10-16 05:51:36 [WARN] GET /api/v1/emp/employees/6ad1ed474ce182a955de4783 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 05:51:36 [INFO] GET /api/v1/emp/employees/6ad1ed474ce182a955de4783 403 - 70.000 ms - ip=::1
+2026-10-16 05:52:41 [WARN] AUTHZ forbidden: user=6ad1d76feec445e2c806c695 tried to update employee=6ad1ed474ce182a955de4783 owned by another user
+2026-10-16 05:52:41 [WARN] PUT /api/v1/emp/employees/6ad1ed474ce182a955de4783 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 05:52:41 [INFO] PUT /api/v1/emp/employees/6ad1ed474ce182a955de4783 403 - 85.402 ms - ip=::1
+2026-10-16 05:54:16 [INFO] EMP deleted: id=6ad1e68a4ce182a955de4781 owner=6ad1d76feec445e2c806c695
+2026-10-16 05:54:16 [INFO] DELETE /api/v1/emp/employees?eid=6ad1e68a4ce182a955de4781 204 - 54.027 ms - ip=::1
+2026-10-16 06:07:13 [WARN] AUTHZ forbidden: user=6ad1d76feec445e2c806c695 tried to delete employee=6ad1ed474ce182a955de4783 owned by another user
+2026-10-16 06:07:13 [WARN] DELETE /api/v1/emp/employees?eid=6ad1ed474ce182a955de4783 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 06:07:13 [INFO] DELETE /api/v1/emp/employees?eid=6ad1ed474ce182a955de4783 403 - 88.513 ms - ip=::1
+2026-10-16 06:10:15 [WARN] GET /api/v1/emp/employees/6ad1e68a4ce182a955de4781 - 404 - Employee not found
+2026-10-16 06:10:15 [INFO] GET /api/v1/emp/employees/6ad1e68a4ce182a955de4781 404 - 73.081 ms - ip=::1
+2026-10-16 06:12:55 [WARN] PUT /api/v1/emp/employees/6ad1e68a4ce182a955de4781 - 404 - Employee not found
+2026-10-16 06:12:55 [INFO] PUT /api/v1/emp/employees/6ad1e68a4ce182a955de4781 404 - 86.693 ms - ip=::1
+2026-10-16 06:17:07 [WARN] DELETE /api/v1/emp/employees?eid=6ad1e68a4ce182a955de4781 - 404 - Employee not found
+2026-10-16 06:17:07 [INFO] DELETE /api/v1/emp/employees?eid=6ad1e68a4ce182a955de4781 404 - 92.269 ms - ip=::1
+2026-10-16 06:19:37 [INFO] EMP created: id=6ad1fa394ce182a955de4784 owner=6ad1d76feec445e2c806c695
+2026-10-16 06:19:37 [INFO] POST /api/v1/emp/employees 201 - 65.763 ms - ip=::1
+2026-10-16 06:21:33 [WARN] AUTHZ forbidden: user=6ad1ec194ce182a955de4782 tried to view employee=6ad1fa394ce182a955de4784 owned by another user
+2026-10-16 06:21:33 [WARN] GET /api/v1/emp/employees/6ad1fa394ce182a955de4784 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 06:21:33 [INFO] GET /api/v1/emp/employees/6ad1fa394ce182a955de4784 403 - 88.172 ms - ip=::1
+2026-10-16 06:22:47 [WARN] AUTHZ forbidden: user=6ad1ec194ce182a955de4782 tried to update employee=6ad1fa394ce182a955de4784 owned by another user
+2026-10-16 06:22:47 [WARN] PUT /api/v1/emp/employees/6ad1fa394ce182a955de4784 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 06:22:47 [INFO] PUT /api/v1/emp/employees/6ad1fa394ce182a955de4784 403 - 84.402 ms - ip=::1
+2026-10-16 06:23:25 [WARN] AUTHZ forbidden: user=6ad1ec194ce182a955de4782 tried to delete employee=6ad1fa394ce182a955de4784 owned by another user
+2026-10-16 06:23:25 [WARN] DELETE /api/v1/emp/employees?eid=6ad1fa394ce182a955de4784 - 403 - Forbidden: this employee belongs to another user
+2026-10-16 06:23:25 [INFO] DELETE /api/v1/emp/employees?eid=6ad1fa394ce182a955de4784 403 - 80.045 ms - ip=::1
+2026-10-16 06:26:30 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 06:26:30 [INFO] Server started on port 3000
+2026-10-16 06:27:01 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 06:27:01 [INFO] Server started on port 3000
+2026-10-16 06:27:46 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 06:27:46 [INFO] Server started on port 3000
+2026-10-16 06:32:09 [INFO] GET /health 200 - 6.310 ms - ip=::1
+2026-10-16 06:46:25 [WARN] AUTHZ expired token: POST /api/v1/emp/employees
+2026-10-16 06:46:25 [WARN] POST /api/v1/emp/employees - 401 - Token has expired
+2026-10-16 06:46:25 [INFO] POST /api/v1/emp/employees 401 - 31.620 ms - ip=::1
+2026-10-16 06:48:30 [INFO] AUTH login success: user=userA id=6ad1d76feec445e2c806c695
+2026-10-16 06:48:30 [INFO] POST /api/v1/user/login 200 - 716.227 ms - ip=::1
+2026-10-16 06:48:39 [WARN] POST /api/v1/emp/employees - 400 - Validation failed
+2026-10-16 06:48:39 [INFO] POST /api/v1/emp/employees 400 - 31.097 ms - ip=::1
+2026-10-16 06:59:17 [WARN] POST /api/v1/emp/employees - 400 - Malformed JSON in request body
+2026-10-16 06:59:17 [INFO] POST /api/v1/emp/employees 400 - 6.086 ms - ip=::1
+2026-10-16 07:01:11 [WARN] POST /api/v1/emp/employees - 400 - Malformed JSON in request body
+2026-10-16 07:01:11 [INFO] POST /api/v1/emp/employees 400 - 1.310 ms - ip=::1
+2026-10-16 07:03:41 [WARN] POST /api/v1/emp/employees - 400 - Malformed JSON in request body
+2026-10-16 07:03:41 [INFO] POST /api/v1/emp/employees 400 - 1.067 ms - ip=::1
+2026-10-16 07:05:51 [WARN] POST /api/v1/emp/employees - 400 - Malformed JSON in request body
+2026-10-16 07:05:51 [INFO] POST /api/v1/emp/employees 400 - 1.147 ms - ip=::1
+2026-10-16 07:08:25 [WARN] AUTHZ invalid token: GET /api/v1/emp/employees
+2026-10-16 07:08:25 [WARN] GET /api/v1/emp/employees - 401 - Invalid token
+2026-10-16 07:08:25 [INFO] GET /api/v1/emp/employees 401 - 1.718 ms - ip=::1
+2026-10-16 07:09:46 [WARN] GET /api/v1/emp/employees/123 - 400 - Validation failed
+2026-10-16 07:09:46 [INFO] GET /api/v1/emp/employees/123 400 - 28.140 ms - ip=::1
+2026-10-16 07:11:14 [WARN] GET /api/v1/emp/employees/6ad1e51f4ce182a955de4780 - 404 - Employee not found
+2026-10-16 07:11:14 [INFO] GET /api/v1/emp/employees/6ad1e51f4ce182a955de4780 404 - 91.155 ms - ip=::1
+2026-10-16 07:13:30 [WARN] POST /api/v1/emp/employees - 400 - Validation failed
+2026-10-16 07:13:30 [INFO] POST /api/v1/emp/employees 400 - 32.243 ms - ip=::1
+2026-10-16 07:14:23 [WARN] POST /api/v1/emp/employees - 400 - Validation failed
+2026-10-16 07:14:23 [INFO] POST /api/v1/emp/employees 400 - 29.737 ms - ip=::1
+2026-10-16 07:15:29 [WARN] POST /api/v1/emp/employees - 400 - Validation failed
+2026-10-16 07:15:29 [INFO] POST /api/v1/emp/employees 400 - 33.206 ms - ip=::1
+2026-10-16 07:22:47 [WARN] AUTH signup rejected: username already exists
+2026-10-16 07:22:47 [WARN] POST /api/v1/user/signup - 409 - Username already exists
+2026-10-16 07:22:47 [INFO] POST /api/v1/user/signup 409 - 27.849 ms - ip=::1
+2026-10-16 07:26:37 [WARN] AUTH signup rejected: email already exists
+2026-10-16 07:26:37 [WARN] POST /api/v1/user/signup - 409 - Email already exists
+2026-10-16 07:26:37 [INFO] POST /api/v1/user/signup 409 - 27.499 ms - ip=::1
+2026-10-16 07:29:17 [WARN] POST /api/v1/user/signup - 400 - Validation failed
+2026-10-16 07:29:17 [INFO] POST /api/v1/user/signup 400 - 3.199 ms - ip=::1
+2026-10-16 07:30:40 [WARN] POST /api/v1/user/signup - 400 - Validation failed
+2026-10-16 07:30:40 [INFO] POST /api/v1/user/signup 400 - 2.669 ms - ip=::1
+2026-10-16 07:32:13 [WARN] POST /api/v1/user/signup - 400 - Validation failed
+2026-10-16 07:32:13 [INFO] POST /api/v1/user/signup 400 - 2.696 ms - ip=::1
+2026-10-16 07:34:12 [WARN] AUTH signup rejected: username already exists
+2026-10-16 07:34:12 [WARN] POST /api/v1/user/signup - 409 - Username already exists
+2026-10-16 07:34:12 [INFO] POST /api/v1/user/signup 409 - 27.042 ms - ip=::1
+2026-10-16 07:36:05 [INFO] AUTH login success: user=userA id=6ad1d76feec445e2c806c695
+2026-10-16 07:36:05 [INFO] POST /api/v1/user/login 200 - 692.426 ms - ip=::1
+2026-10-16 07:39:25 [WARN] AUTH login failed: username=userA
+2026-10-16 07:39:25 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:39:25 [INFO] POST /api/v1/user/login 401 - 465.701 ms - ip=::1
+2026-10-16 07:41:16 [WARN] POST /api/v1/user/login - 400 - Validation failed
+2026-10-16 07:41:16 [INFO] POST /api/v1/user/login 400 - 1.286 ms - ip=::1
+2026-10-16 07:42:13 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:13 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:13 [INFO] POST /api/v1/user/login 401 - 443.670 ms - ip=::1
+2026-10-16 07:42:15 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:15 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:15 [INFO] POST /api/v1/user/login 401 - 471.602 ms - ip=::1
+2026-10-16 07:42:17 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:17 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:17 [INFO] POST /api/v1/user/login 401 - 467.957 ms - ip=::1
+2026-10-16 07:42:18 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:18 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:18 [INFO] POST /api/v1/user/login 401 - 457.324 ms - ip=::1
+2026-10-16 07:42:20 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:20 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:20 [INFO] POST /api/v1/user/login 401 - 463.356 ms - ip=::1
+2026-10-16 07:42:22 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:22 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:22 [INFO] POST /api/v1/user/login 401 - 461.696 ms - ip=::1
+2026-10-16 07:42:24 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:24 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:24 [INFO] POST /api/v1/user/login 401 - 437.420 ms - ip=::1
+2026-10-16 07:42:25 [WARN] AUTH login failed: username=userA
+2026-10-16 07:42:25 [WARN] POST /api/v1/user/login - 401 - Invalid username/email or password
+2026-10-16 07:42:25 [INFO] POST /api/v1/user/login 401 - 459.590 ms - ip=::1
+2026-10-16 07:42:26 [WARN] RATE LIMIT exceeded: POST /api/v1/user/login ip=::1
+2026-10-16 07:42:26 [INFO] POST /api/v1/user/login 429 - 1.377 ms - ip=::1
+2026-10-16 07:42:27 [WARN] RATE LIMIT exceeded: POST /api/v1/user/login ip=::1
+2026-10-16 07:42:27 [INFO] POST /api/v1/user/login 429 - 0.910 ms - ip=::1
+2026-10-16 07:48:14 [INFO] MongoDB connected: database "comp3123_assignment1"
+2026-10-16 07:48:14 [INFO] Server started on port 3000
